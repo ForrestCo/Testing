@@ -1,0 +1,2 @@
+mocoÆô¶¯ÃüÁî
+	java -jar ./moco-runner-0.10.0-standalone.jar -p 8888 -c startup1.json

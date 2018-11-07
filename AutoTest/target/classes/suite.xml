@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="test">
+	<test name="login">
+		<classes>
+			<class name="com.yc.suite.LoginTest"></class>
+			<class name="com.yc.suite.SuiteTest"></class>
+		</classes>
+	</test>
+	
+	<test name="pay">
+		<classes>
+			<class name="com.yc.suite.PayTest"></class>
+			<class name="com.yc.suite.SuiteTest"></class>
+		</classes>
+	</test>
+</suite>
